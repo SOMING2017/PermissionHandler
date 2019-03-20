@@ -22,7 +22,7 @@ PermissionHandler提供给所有除了在"AndroidManifest.xml"声明还需额外
 2.
 ``` gradle
 	dependencies {
-	        implementation 'com.github.SOMING2017:PermissionHandler:Tag'
+	        implementation 'com.github.SOMING2017:PermissionHandler:1.0.4'
 	}
 ```
 #### 2.Activity继承
