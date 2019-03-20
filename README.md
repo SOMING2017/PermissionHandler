@@ -3,7 +3,7 @@ Android权限集成处理工具-PermissionHandler
 ## demo演示：
 ![](github_image/1553035458681.gif)
 <br><br>
-PermissionHandler提供给所有除了在"AndroidManifest.xml"声明还需额外处理的权限一些解决方案。目前提供：
+PermissionHandler提供给除了在"AndroidManifest.xml"声明还需额外处理的权限一些解决方案。目前提供：
 <br>
 1.android6.0危险权限解决方案。
 ## 注意点：
