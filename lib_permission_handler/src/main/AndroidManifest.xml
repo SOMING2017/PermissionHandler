@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.android.lib_permission_handler">
+    <!--选择添加，此处不进行所有权限的添加操作，防止应用弹出不必要的权限获取-->
+    <!--&lt;!&ndash;-->
+    <!--@author song-->
+    <!--读取日历权限-->
+    <!--&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.READ_CALENDAR"/>-->
+    <!--&lt;!&ndash;编辑日历权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.WRITE_CALENDAR"/>-->
+    <!--&lt;!&ndash;相机权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.CAMERA"/>-->
+    <!--&lt;!&ndash;读取联系人权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.READ_CONTACTS"/>-->
+    <!--&lt;!&ndash;编辑联系人权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.WRITE_CONTACTS"/>-->
+    <!--&lt;!&ndash;通讯录权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.GET_ACCOUNTS"/>-->
+    <!--&lt;!&ndash;位置服务权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>-->
+    <!--<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>-->
+    <!--&lt;!&ndash;麦克风权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.RECORD_AUDIO"/>-->
+    <!--&lt;!&ndash;读取本机识别码权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.READ_PHONE_STATE" />-->
+    <!--&lt;!&ndash;电话权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.CALL_PHONE"/>-->
+    <!--&lt;!&ndash;读取通话记录权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.READ_CALL_LOG"/>-->
+    <!--&lt;!&ndash;编辑通话记录权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.WRITE_CALL_LOG"/>-->
+    <!--&lt;!&ndash;新增语音邮件权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.ADD_VOICEMAIL"/>-->
+    <!--&lt;!&ndash;SIP网络通话权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.USE_SIP"/>-->
+    <!--&lt;!&ndash;监听、控制、取消呼出电话权限 &ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>-->
+    <!--&lt;!&ndash;人体传感器权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.BODY_SENSORS"/>-->
+    <!--&lt;!&ndash;发送短信权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.SEND_SMS"/>-->
+    <!--&lt;!&ndash;接收短信权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.RECEIVE_SMS"/>-->
+    <!--&lt;!&ndash;读取短信权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.READ_SMS"/>-->
+    <!--&lt;!&ndash;接收wap push权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.RECEIVE_WAP_PUSH"/>-->
+    <!--&lt;!&ndash;接收彩信权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.RECEIVE_MMS"/>-->
+    <!--&lt;!&ndash;读取文件权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>-->
+    <!--&lt;!&ndash;读写文件权限&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />-->
+    <!--&lt;!&ndash;安装位置来源应用&ndash;&gt;-->
+    <!--<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />-->
+
+</manifest>
